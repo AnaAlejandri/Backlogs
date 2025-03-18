@@ -1,5 +1,15 @@
 # Backlogs
 Cronogramas y backlogs
+<H1>Actividad Preliminar. Retomando mi Primer Sprint.</H1>
+<p>Integrantes:</p>
+<p>-Alexis Yahir Becerra Jiménez </p>
+<p>-Ana Laura Alejandri Rodríguez </p>
+<p>-Erick Luna Ortiz </p>
+
+<p>Roles:</p>
+<p>Product Owner - PO</p>
+<p>Scrum Master - SM</p>
+<p>Desarrollador - Dev</p>
 
 ![Captura de pantalla (368)](https://github.com/user-attachments/assets/7f22f3aa-0c38-4f5a-aa7d-15d8e1de9a2d)
 
